@@ -1,0 +1,12 @@
+{
+  "task_id": "patient_002_BM_20250522_163701",
+  "patient_id": "patient_002",
+  "image_file_path": "/Users/haojiang/dev/neural_agent_pyqt/images/image.nii.gz",
+  "segmentation_type": "BM",
+  "status": "pending",
+  "created_timestamp": "2025-05-22T16:37:01.460913",
+  "created_by": "patient_database_chat_gui",
+  "output_directory": "/Users/haojiang/dev/neural_agent_pyqt/images",
+  "expected_output_files": "patient_002_bm_mask.nii.gz",
+  "description": "Brain Metastases detection and segmentation"
+}
